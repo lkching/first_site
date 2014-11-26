@@ -3,4 +3,5 @@ h1 {
 }
 body {
 	background-image: url(http://cache.desktopnexus.com/thumbnails/80915-bigthumbnail.jpg);
+	background-size: cover;
 }
