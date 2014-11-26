@@ -1,7 +1,10 @@
 h1 {
-	color: red;
+	color: white;
+	font-family: 'Lobster', cursive;
 }
 body {
 	background-image: url(http://cache.desktopnexus.com/thumbnails/80915-bigthumbnail.jpg);
 	background-size: cover;
+	font-family: 'Bree Serif', serif;
+	color: white;
 }
